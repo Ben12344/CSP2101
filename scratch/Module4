@@ -1,0 +1,12 @@
+!#/bin/bash
+
+currentage = 25
+
+read -p 'Guess the age: ' guessage
+
+while true; do
+
+[ "$guessage" = "$currentage" ] && echo "Correct! the current age is $currentage" && break
+echo "Incorrect try again!"
+
+done 
