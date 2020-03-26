@@ -1,6 +1,7 @@
 #/bin/bash
 
-
+#Benjamin Tirabosco
+#ID: 10393081
 
 echo "Wellcome to age guess game!"
 
