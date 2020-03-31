@@ -5,7 +5,7 @@
 
 
 #Menu to guessage
-echo "Wellcome to age guess game!"
+echo "Welcome to age guess game!"
 
 #Keep menu after or exit when user finishes
 while true; do
