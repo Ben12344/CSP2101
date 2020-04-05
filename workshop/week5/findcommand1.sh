@@ -9,7 +9,12 @@ function cal_rand () {
     rand_num=$(($rand_num+$floor));
 }
 
-rtdir=~/Documents/csp2101 budir=~/Documents/csp2101/backup bufile="" tmstamp="date+%s"
+rtdir=~/Documents/csp2101 budir=~/Documents/csp2101/backup bufile="" 
+sepchar="_" pathsep="/" successcount=0 failcount=0 tmstamp=`date +%s`
+
+
+echo tmstamp
+
 
 read -p 'Enter the name or part of the file(s) you wish to backup: ' reqfile
 
@@ -19,6 +24,10 @@ for i in $(find $rtdir -name $reqfile\*); do
         cal_rand 1 99
         origpath=${i%/*}
         origfile=${i##*/}
+
+        echo "$origfile"
+        
+        echo $tmstamp
 
         bufile="$tmstamp$sepchar$rand_num$sepchar$origfile"
         cp $origpath$pathsep$origfile $origpath$pathsep$bufile
