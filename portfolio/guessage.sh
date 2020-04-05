@@ -10,13 +10,16 @@ echo "Welcome to age guess game!"
 #Keep menu after or exit when user finishes
 while true; do
 
+    #Input user to play or exit game
     read -p "Press p to play new round or Press e to finish : " player
 
+    #Game process beigins 
     if [[ "$player" = "p" ]]; then
 
         #Generate Random Age
         currentage=$((( RANDOM % 100 ) + 1 ))
 
+        #Print guess age between 0-100
         echo "Guess the age between 0-100"
 
         #Start Time
@@ -26,6 +29,7 @@ while true; do
         #Keep guess age game unitl user guess age = age from radnom generator
         while true; do
 
+            #User input for guessage
             read -p 'Enter age : ' guessage
 
             #Check if user input is an integer 
