@@ -1,0 +1,343 @@
+<!DOCTYPE html><!--[if lt IE 7]><html
+class="ie ie6 ie-lt10 ie-lt9 ie-lt8 ie-lt7 no-js" lang=en> <![endif]-->
+<!--[if IE 7]><html
+class="ie ie7 ie-lt10 ie-lt9 ie-lt8 no-js" lang=en> <![endif]-->
+<!--[if IE 8]><html
+class="ie ie8 ie-lt10 ie-lt9 no-js" lang=en> <![endif]-->
+<!--[if IE 9]><html
+class="ie ie9 ie-lt10 no-js" lang=en> <![endif]-->
+<!--[if gt IE 9]><!--><html
+class=no-js lang=en><!--<![endif]--><head><link
+rel=dns-prefetch href=//cdnjs.cloudflare.com><link
+rel=dns-prefetch href=//ajax.googleapis.com><link
+rel=dns-prefetch href=//assets.juicer.io><link
+rel=dns-prefetch href=//d21tktytfo9riy.cloudfront.net><link
+rel=dns-prefetch href=//ecx.images-amazon.com><meta
+charset=utf-8><meta
+http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><title>Angry Birds</title><meta
+name=viewport content="width=device-width, initial-scale=1.0"><!--[if lt IE 9]> <script src=https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js></script> <script src=https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js></script> <script src=https://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js></script> <![endif]-->
+ <script>var _vwo_code=(function(){
+var account_id=1369,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();</script> <meta
+name=description content="Home of the Angry Birds – stars of the Angry Birds Movie and the beloved mobile games downloaded billions of times worldwide."><meta
+name=robots content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"><link
+rel=canonical href=https://www.angrybirds.com/><meta
+property=og:locale content=en_US><meta
+property=og:type content=website><meta
+property=og:title content="Angry Birds"><meta
+property=og:description content="Home of the Angry Birds – stars of the Angry Birds Movie and the beloved mobile games downloaded billions of times worldwide."><meta
+property=og:url content=https://www.angrybirds.com/><meta
+property=og:site_name content="Angry Birds"><meta
+property=og:image content=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/03/30123842/abcom-default-share.jpg><meta
+property=og:image:secure_url content=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/03/30123842/abcom-default-share.jpg><meta
+name=twitter:card content=summary><meta
+name=twitter:description content="Home of the Angry Birds – stars of the Angry Birds Movie and the beloved mobile games downloaded billions of times worldwide."><meta
+name=twitter:title content="Angry Birds"><meta
+name=twitter:image content=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/03/30123842/abcom-default-share.jpg> <script type=application/ld+json class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.angrybirds.com/#website","url":"https://www.angrybirds.com/","name":"Angry Birds","potentialAction":{"@type":"SearchAction","target":"https://www.angrybirds.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.angrybirds.com/#webpage","url":"https://www.angrybirds.com/","inLanguage":"en-US","name":"Angry Birds","isPartOf":{"@id":"https://www.angrybirds.com/#website"},"datePublished":"2016-02-08T11:04:52+00:00","dateModified":"2020-01-31T08:11:41+00:00","description":"Home of the Angry Birds \u2013 stars of the Angry Birds Movie and the beloved mobile games downloaded billions of times worldwide."}]}</script> <link
+rel=dns-prefetch href=//ajax.googleapis.com><link
+rel=dns-prefetch href=//cdnjs.cloudflare.com><link
+rel=dns-prefetch href=//assets.juicer.io><link
+rel=dns-prefetch href=//fonts.googleapis.com><link
+rel=dns-prefetch href=//maxcdn.bootstrapcdn.com><link
+rel=dns-prefetch href=//s.w.org><link
+rel=stylesheet id=wp-block-library-css  href=https://www.angrybirds.com/wp-includes/css/dist/block-library/style.min.css type=text/css media=all><link
+rel=stylesheet id=asa2-css  href=https://www.angrybirds.com/wp-content/plugins/amazon-simple-affiliate/files/css/asa2.min.css type=text/css media=all><link
+rel=stylesheet id=app-banners-styles-css  href=https://www.angrybirds.com/wp-content/plugins/appbanners/lib/smartbanner/jquery.smartbanner.min.css type=text/css media=all><link
+rel=stylesheet id=cookie-consent-style-css  href=https://www.angrybirds.com/wp-content/plugins/uk-cookie-consent/assets/css/style.css type=text/css media=all><link
+rel=stylesheet id=google_fonts-css  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C300%7CLora%3A400%2C400italic%2C700%2C700italic' type=text/css media=all><link
+rel=stylesheet id=font_awesome-css  href=//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css type=text/css media=all><link
+rel=stylesheet id=juicerstyle-css  href=//assets.juicer.io/embed.css type=text/css media=all><link
+rel=stylesheet id=our_css-css  href='https://www.angrybirds.com/wp-content/themes/angrybirds/assets/dist/css/main.css?v=1.0.13' type=text/css media=all> <script src=//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js></script> <script>var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/www.angrybirds.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"","token":"eda604842e","debug":"1"};</script> <script src=https://www.angrybirds.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js></script> <script src=//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js></script> <meta
+name=apple-itunes-app content="app-id=880047117"><meta
+name=google-play-app content="app-id=com.rovio.baba"><meta
+name=viewport content="width=device-width, initial-scale=1.0"><noscript><iframe
+src="//www.googletagmanager.com/ns.html?id=GTM-KZZ6MB"
+height=0 width=0 style=display:none;visibility:hidden></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KZZ6MB');</script> 
+<style id=ctcc-css media=screen>#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #ffffff;
+					position: fixed;
+					left: 0;
+					bottom: 0;
+					width: 100%;
+					background-color: #1b1c20;
+				}
+				#catapult-cookie-bar a {
+					color: #ff5b8a;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: #1b1c20;
+				}
+				button#catapultCookie {
+					background:#ffec00;
+					color: #1b1c20;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #ffffff;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style> <script>window.jQuery || document.write('<script src=https://www.angrybirds.com/wp-content/themes/angrybirds/assets/vendor/jquery/dist/jquery.min.js><\/script>')</script> <link
+rel=apple-touch-icon sizes=57x57 href=/favicon/apple-touch-icon-57x57.png><link
+rel=apple-touch-icon sizes=60x60 href=/favicon/apple-touch-icon-60x60.png><link
+rel=apple-touch-icon sizes=72x72 href=/favicon/apple-touch-icon-72x72.png><link
+rel=apple-touch-icon sizes=76x76 href=/favicon/apple-touch-icon-76x76.png><link
+rel=apple-touch-icon sizes=114x114 href=/favicon/apple-touch-icon-114x114.png><link
+rel=apple-touch-icon sizes=120x120 href=/favicon/apple-touch-icon-120x120.png><link
+rel=apple-touch-icon sizes=144x144 href=/favicon/apple-touch-icon-144x144.png><link
+rel=apple-touch-icon sizes=152x152 href=/favicon/apple-touch-icon-152x152.png><link
+rel=apple-touch-icon sizes=180x180 href=/favicon/apple-touch-icon-180x180.png><link
+rel=icon type=image/png href=/favicon/favicon-32x32.png sizes=32x32><link
+rel=icon type=image/png href=/favicon/android-chrome-192x192.png sizes=192x192><link
+rel=icon type=image/png href=/favicon/favicon-96x96.png sizes=96x96><link
+rel=icon type=image/png href=/favicon/favicon-16x16.png sizes=16x16><link
+rel=manifest href=/favicon/manifest.json><link
+rel=mask-icon href=/favicon/safari-pinned-tab.svg color=#5bbad5><link
+rel="shortcut icon" href=/favicon/favicon.ico><meta
+name=msapplication-TileColor content=#da532c><meta
+name=msapplication-TileImage content=/favicon/mstile-144x144.png><meta
+name=msapplication-config content=/favicon/browserconfig.xml><meta
+name=theme-color content=#ffffff></head><body
+id=skrollr-body class="home page-template-default page page-id-4"><div
+id=fb-root></div> <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> <!--[if lte IE 9]><div
+class=chromeframe>
+You are using an <strong>outdated</strong> browser. Please <a
+href=http://browsehappy.com/>upgrade your browser</a> to improve your experience.</div>
+<![endif]--><div
+class=body>
+<span
+id=top></span><header
+class=main-header><div
+class="nav-bar nav-bar--header"><div
+class=container><div
+class=row><div
+class=col-xs-12><a
+href=https://www.angrybirds.com title="Angry Birds" class=nav-bar__logo>Angry Birds</a><div
+class=navtoggle><span>Menu</span></div><div
+class=nav><nav
+role=navigation><div
+class=menu-primary-menu-container><ul
+id=menu-primary-menu class="nav__list nav__list--bar"><li
+id=menu-item-17493 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17493"><a
+href=https://www.angrybirds.com/movie-2/>Movie</a></li><li
+id=menu-item-18 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a
+href=https://www.angrybirds.com/games/>Games</a></li><li
+id=menu-item-17053 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17053"><a
+href=https://www.angrybirds.com/animations/>Animations</a></li><li
+id=menu-item-3136 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3136"><a
+href=https://www.angrybirds.com/shop/>Shop</a></li></ul></div></nav><ul
+class="nav__social-links social-links social-links--small"><li
+class="social-links__item social-links__item--facebook"><a
+href=https://www.facebook.com/angrybirds target=_blank><i
+class="fa fa-facebook-f"></i></a></li><li
+class="social-links__item social-links__item--twitter"><a
+href=https://twitter.com/angrybirds target=_blank><i
+class="fa fa-twitter"></i></a></li><li
+class="social-links__item social-links__item--youtube"><a
+href=https://www.youtube.com/user/RovioMobile target=_blank><i
+class="fa fa-youtube"></i></a></li><li
+class="social-links__item social-links__item--instagram"><a
+href=https://www.instagram.com/angrybirds/ target=_blank><i
+class="fa fa-instagram"></i></a></li></ul></div></div></div></div></div></header><div
+class=page-content><section
+class="highlight  highlight--normal"
+><div
+class="highlight__background " style=" background-color: #beecdd;"><div
+class="highlight__background__image  highlight__background__image--cover animated dollyIn" style=" background-image: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2018/12/18105208/BREAMBLAST_201812_1920x700_PreRegBG.jpg);"></div></div><div
+class="highlight__container "><div
+class="highlight__image  highlight__image--right"  data-animate="animated fadeInUp">
+<img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/01/24121914/DreamBlast_dudes_v3.png alt></div><div
+class="highlight__content  highlight__content--left highlight__content--middle"><div
+class="highlight__content__inner animated bounceIn"><div
+class=highlight__content__title><h1><img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/01/23143257/dream_blast_logo.png alt="Angry Birds Dream Blast"></h1></div><div
+style=" color: #db4777;"><p>Life is a bubble-popping dream in a new puzzle game with a new gameplay style never-before-seen in an Angry Birds game.</p></div>
+<a
+href="https://c.singular.net/api/v1/ad?st=557001762594&h=19db099d009645757dd2c025eb16e114d23be37c" data-page-url=https://www.angrybirds.com/games/angry-birds-dream-blast/ data-ios=https://itunes.apple.com/app/angry-birds-dream-blast/id1432579280 data-android="https://play.google.com/store/apps/details?id=com.rovio.dream" data-amazon data-mac data-facebook data-email=0 data-app-icon=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/01/23140919/dream_blast_icon.jpg data-app-key-art=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/01/23142024/game_decoration.jpg data-title="Angry Birds Dream Blast" data-description="Life is a bubble-popping dream in a new puzzle game with a gameplay style never-before-seen in an Angry Birds game." class="js-download btn btn--icon btn--normal btn--download btn--yellow">
+Download</a></div></div></div></section><div
+class=separator>
+<img
+class=separator__image src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/01/23151349/dream_blast_separator.png alt></div><section
+class="highlight  highlight--normal highlight--tall"
+><div
+class="highlight__background " style=" background-color: #000000;"><div
+class="highlight__background__image  highlight__background__image--cover animated dollyIn" style=" background-image: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/03135724/AB2_Clansbanners_1920x750_BG.jpg);"></div></div><div
+class="highlight__container "><div
+class="highlight__image  highlight__image--center"  data-animate="animated fadeInUp">
+<img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/20143114/AB2_XMAS2017_Foreground4.png alt="Angry Birds 2"></div><div
+class="highlight__content  highlight__content--center highlight__content--bottom"><div
+class="highlight__content__inner animated bounceIn"><div
+style></div>
+<a
+href="https://c.singular.net/api/v1/ad?st=73180650259&h=fe05d0872731ca85382a6a625887c9263eb2199a" data-page-url=https://www.angrybirds.com/games/angry-birds-2/ data-ios=https://itunes.apple.com/app/angry-birds-2/id880047117 data-android="https://play.google.com/store/apps/details?id=com.rovio.baba" data-amazon data-mac data-facebook data-email=0 data-app-icon=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/06131128/ABBA_icon1.jpg data-app-key-art=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/30123848/ab2-keyart-1.jpg data-title="Angry Birds 2" data-description="Bigger. Badder. Birdier. The Angry Birds are back in the sequel to the biggest mobile game of all time!" class="js-download btn btn--icon btn--normal btn--download btn--yellow">
+Play now!</a></div></div></div></section><div
+class=separator>
+<img
+class=separator__image src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/10/28161423/separator_3.png alt></div><section
+class="highlight  highlight--normal"
+><div
+class="highlight__background " style=" background-color: #000000;"><div
+class="highlight__background__image  highlight__background__image--cover animated dollyIn" style=" background-image: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/12/10124308/BG_Bamboo_01.png);"></div></div><div
+class="highlight__container "><div
+class="highlight__image  highlight__image--right"  data-animate="animated fadeInUp">
+<img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/12/05133158/AB10th_Anniversary_logo_full_color-white_banner-rgb.png alt></div><div
+class="highlight__content  highlight__content--left highlight__content--middle"><div
+class="highlight__content__inner animated bounceIn"><h2 class="h3 title highlight__content__subtitle" style="">10 years of Angry Birds!</h2><div
+style><p>At the end of last year, Angry Birds celebrated its 10th anniversary! It’s been a long journey and the birds continue to fly high. Check out the timeline to see all of the biggest beats from their first decade.</p></div>
+<a
+href=https://www.angrybirds.com/10-years/#timeline class="btn btn--normal btn--link btn--yellow">
+Let’s go!</a></div></div></div></section><div
+class=separator>
+<img
+class=separator__image src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2018/05/09171915/ABcom_Separator_AB2ABEVO.png alt></div><section
+class="highlight  highlight--normal highlight--tall"
+><div
+class="highlight__background " style=" background-color: #000000;"><div
+class="highlight__background__image  highlight__background__image--cover animated dollyIn" style=" background-image: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2017/06/14120101/AB_Evolution_Keyart_bg.jpg);"></div></div><div
+class="highlight__container "><div
+class="highlight__image  highlight__image--center highlight__image--wide"  data-animate="animated fadeInUp">
+<img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2017/06/14120123/Evolution_Characters_foreground.png alt="Angry Birds Evolution"></div><div
+class="highlight__content  highlight__content--center highlight__content--bottom"><div
+class="highlight__content__inner animated bounceIn"><div
+style=" color: #ffffff;"></div>
+<a
+href="https://c.singular.net/api/v1/ad?st=92396743045&h=eba520108c109b64c8999b477bbcc5369d16f2bb" data-page-url=https://www.angrybirds.com/games/angry-birds-evolution/ data-ios=https://itunes.apple.com/us/app/angry-birds-evolution/id1104911270 data-android="https://play.google.com/store/apps/details?id=com.rovio.tnt" data-amazon data-mac data-facebook data-email=0 data-app-icon=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2017/05/23121049/Evolution_Icon_1.24.0_390x390.jpg data-app-key-art=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2017/06/14120057/AB_Evolution_Keyart_560x150.jpg data-title="Angry Birds Evolution" data-description="Collect and evolve over 100 new crazy and colorful Angry Birds, assemble a powerful team, and stop the pigs." class="js-download btn btn--icon btn--normal btn--download btn--yellow">
+Play Now!</a></div></div></div></section><div
+class=separator>
+<img
+class=separator__image src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2018/05/09171917/ABcom_Separator_ABEvoABMatch.png alt></div><section
+class="highlight  highlight--normal"
+><div
+class="highlight__background " style=" background-color: #000000;"><div
+class="highlight__background__image  highlight__background__image--cover animated dollyIn" style=" background-image: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/03111300/ABMatch_abcom_background.jpg);"></div></div><div
+class="highlight__container "><div
+class="highlight__image  highlight__image--center"  data-animate="animated fadeInUp">
+<img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/03111242/ABMATCH_birthday_foregroundchar.png alt></div><div
+class="highlight__content  highlight__content--center highlight__content--bottom"><div
+class="highlight__content__inner animated bounceIn"><div
+style></div>
+<a
+href="https://c.singular.net/api/v1/ad?st=81041779126&h=1bc47d83eb99eb52987ecfb317814847f19a5d92" data-page-url=https://www.angrybirds.com/games/angry-birds-match/ data-ios=https://itunes.apple.com/app/angry-birds-match/id1144401880 data-android="https://play.google.com/store/apps/details?id=com.rovio.abmatch3" data-amazon data-mac data-facebook data-email=0 data-app-icon=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2017/08/02140428/AB_MATCH_201810_390x390_Winter.jpg data-app-key-art=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2017/08/30154816/ABMatch_dlbanner_560x150.jpg data-title="Angry Birds Match" data-description="Match stuff with the adorable Hatchlings from the Angry Birds Movie, collect cute outfits, and get the party started!" class="js-download btn btn--icon btn--normal btn--download btn--yellow">
+Play now!</a></div></div></div></section><div
+class=separator>
+<img
+class=separator__image src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2017/08/30151459/ABcom__Template__Separator_6.png alt></div><section
+class="highlight  highlight--normal custom-class-movie"
+><div
+class="highlight__background " style=" background-color: #1b1c20;"><div
+class="highlight__background__image  highlight__background__image--cover animated dollyIn" style=" background-image: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/07/31125706/ab-beach-bg.jpg);"></div></div><div
+class="highlight__container "><div
+class="highlight__content  highlight__content--left highlight__content--middle highlight__content--reversed"><div
+class="highlight__content__inner animated bounceIn"><div
+class=highlight__content__title><h1><img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/07/22144404/abm2_logo.png alt></h1></div><h2 class="h3 title highlight__content__subtitle" style=" color: #bb0000;">To save the world, these enemies must become frenemies.</h2><div
+style=" color: #bb0000;"></div>
+<a
+href=https://www.angrybirds.com/movie-2/ class="btn btn--normal btn--link btn--yellow">
+FIND OUT MORE!</a></div></div><div
+class="highlight__image  highlight__image--right highlight__image--tall highlight__image--reversed"  data-animate="animated fadeInUp">
+<img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/07/31125648/hug.png alt></div></div><div
+class=highlight__custom><style>.custom-class-movie{
+z-index:1;
+}
+@media (max-width:992px){
+.custom-class-movie .highlight__image{
+bottom:-72px;
+}
+}
+@media (min-width:992px) and (max-width:1082px){
+.custom-class-movie .highlight__image{
+top:20px;
+}
+}</p></style></div></section><div
+class=separator>
+<img
+class=separator__image src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2019/07/22144405/abm2_separator.png alt></div><div
+class=decoration><div
+class="decoration__image  decoration__image--cover" data-bottom-top=margin-top:-50px; data-bottom="margin-top: 0px;" style=" background-image: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2018/04/17151454/AB_Springbottompic_1920x520.jpg);"></div></div></div><footer
+class=footer><div
+class=footer__container><div
+class="footer__row footer__row--nav"><div
+class=footer__content><div
+class=menu-secondary-menu-container><ul
+id=menu-secondary-menu class="nav__list nav__list--bar footer__navigation"><li
+id=menu-item-17587 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17587"><a
+href=https://www.angrybirds.com/blog/>Blog</a></li><li
+id=menu-item-20 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a
+href=https://support.rovio.com>Support</a></li><li
+id=menu-item-21 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a
+href=https://www.rovio.com>Rovio.com</a></li><li
+id=menu-item-17841 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17841"><a
+href=https://www.angrybirds.com/bring-the-anger/>Bring the Anger</a></li></ul></div></div></div><div
+class=footer__row><div
+class=footer__content><ul
+class="social-links social-links--dark"><li
+class="social-links__item social-links__item--facebook"><a
+href=https://www.facebook.com/angrybirds target=_blank><i
+class="fa fa-facebook-f"></i></a></li><li
+class="social-links__item social-links__item--twitter"><a
+href=https://twitter.com/angrybirds target=_blank><i
+class="fa fa-twitter"></i></a></li><li
+class="social-links__item social-links__item--youtube"><a
+href=https://www.youtube.com/user/RovioMobile target=_blank><i
+class="fa fa-youtube"></i></a></li><li
+class="social-links__item social-links__item--instagram"><a
+href=https://www.instagram.com/angrybirds/ target=_blank><i
+class="fa fa-instagram"></i></a></li></ul></div></div><div
+class=footer__row><div
+class=footer__content>
+<a
+href=http://www.rovio.com title="Angry Birds" class=footer__logo>
+<img
+src=https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/30124010/logo-rovio-2016.png alt>
+</a><p
+class=text-xxs>&copy; 2009 - 2020 Rovio Entertainment Corporation. All rights Reserved. <a
+href=https://www.rovio.com/privacy target=_blank>Privacy policy</a>. <a
+href=https://www.rovio.com/terms-of-service target=_blank>EULA</a>.</div></div></div></footer></div> <script src=https://www.angrybirds.com/wp-content/plugins/appbanners/lib/smartbanner/jquery.smartbanner.min.js></script> <script>var appBannersConfig = {"title":"","author":"","price":"","appStoreLanguage":"US","inAppStore":"On the App Store","inGooglePlay":"In Google Play","inAmazonAppStore":"In the Amazon Appstore","inWindowsStore":"In the Windows Store","GooglePlayParams":null,"icon":"","iconGloss":"","url":"https:\/\/app.adjust.com\/g8cir1","button":"","scale":"auto","speedIn":"300","speedOut":"400","daysHidden":"0","daysReminder":"0","force":null,"hideOnInstall":"1","layer":"","iOSUniversalApp":"1","appendToSelector":"body","printViewPort":"1","pushSelector":"html"};</script> <script src=https://www.angrybirds.com/wp-content/plugins/appbanners/js/config.min.js></script> <script>var countVars = {"disqusShortname":"angrybirdscom"};</script> <script src=https://www.angrybirds.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js></script> <script>var ctcc_vars = {"expiry":"30","method":"","version":"1.1.1"};</script> <script src=https://www.angrybirds.com/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js></script> <script src=https://www.angrybirds.com/wp-content/themes/angrybirds/assets/vendor/slick.js/slick/slick.min.js></script> <script src=https://www.angrybirds.com/wp-includes/js/imagesloaded.min.js></script> <script src=https://www.angrybirds.com/wp-includes/js/masonry.min.js></script> <script src=https://www.angrybirds.com/wp-content/themes/angrybirds/assets/vendor/jquery.resizeend/dist/jquery.resizeend.min.js></script> <script src=https://www.angrybirds.com/wp-content/themes/angrybirds/assets/vendor/picturefill/dist/picturefill.min.js></script> <script src=https://www.angrybirds.com/wp-content/themes/angrybirds/assets/vendor/magnific-popup/dist/jquery.magnific-popup.min.js></script> <script src=https://www.angrybirds.com/wp-content/themes/angrybirds/assets/vendor/theia-sticky-sidebar/js/theia-sticky-sidebar.js></script> <script src=https://www.angrybirds.com/wp-content/themes/angrybirds/assets/vendor/skrollr/dist/skrollr.min.js></script> <script src=//assets.juicer.io/embed-no-jquery.js></script> <script>var php_data = {"badges":{"apple":{"url":"https:\/\/d21tktytfo9riy.cloudfront.net\/wp-content\/uploads\/2016\/02\/29165321\/itunes_badge.png","alt":"Get it on iTunes"},"google":{"url":"https:\/\/d21tktytfo9riy.cloudfront.net\/wp-content\/uploads\/2016\/02\/30123948\/download-google-ext-1.png","alt":"Get it on Google Play"},"amazon":{"url":"https:\/\/d21tktytfo9riy.cloudfront.net\/wp-content\/uploads\/2016\/02\/30124001\/download-amazon.png","alt":"Available at Amazon"},"mac":{"url":"https:\/\/d21tktytfo9riy.cloudfront.net\/wp-content\/uploads\/2016\/02\/30124001\/download-apple-mac.png","alt":"Download on the Mac App Store"},"facebook":{"url":"https:\/\/d21tktytfo9riy.cloudfront.net\/wp-content\/uploads\/2016\/02\/30124001\/play-on-facebook.png","alt":"Play on Facebook"}},"str":{"valid_date_error":"Please input a valid date.","age_gate_error":"Sorry, you are too young to submit the form.","send_download_link_title":"Send me a download link:","download_link_success_message":"<h5 style=\"text-align: center;\">Thank you!<\/h5>\n<p style=\"text-align: center;\">Please check your email for a download link to the game.<\/p>\n","download_link_error_message":"There was an error with sending the link. Please try again later."}};</script> <script src='https://www.angrybirds.com/wp-content/themes/angrybirds/assets/dist/js/myquery.js?v=1.0.13'></script> <script>jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-bottom-bar");
+							$("html").addClass("cookie-bar-bar");
+													}
+																	});</script> <div
+id=catapult-cookie-bar class><div
+class="ctcc-inner "><span
+class=ctcc-left-side>Hey there! Just to let you know, we use cookies on this site. <a
+class=ctcc-more-info-link tabindex=0 target=_blank href=http://www.rovio.com/privacy-policy>Find out more.</a></span><span
+class=ctcc-right-side><button
+id=catapultCookie tabindex=0 onclick=catapultAcceptCookies();>Okay, thanks</button></span></div></div></body></html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 0/0 objects using memcached
+Page Caching using memcached (SSL caching disabled) 
+Database Caching 46/82 queries in 0.044 seconds using memcached
+
+Served from: www.angrybirds.com @ 2020-04-09 08:56:49 by W3 Total Cache
+-->

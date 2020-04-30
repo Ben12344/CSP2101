@@ -1,0 +1,6 @@
+David 10 10 10
+Anne 22 23 35
+Mark 18 17 15
+Jane 29 20 22
+Peter 12 12 22
+Wendy 20 20 30
