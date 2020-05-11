@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Ben Tirabosco
+# ID: 10393081
+
 # Check to find rectangle
 if [ -f rectangle_f.txt ] ; then
 
@@ -12,13 +15,13 @@ fi
 # Check to find rectangle.txt
 if [ -f rectangle.txt ] ; then
 
-# Sed command explaination for lines 23-28: 
-    # Line 23 Remove first line
-    # Line 24 Add 'Name: ' at start of line
-    # Line 25 Substitute first "," with tab follow "Height: "
-    # Line 26 Substitute second "," with tab follow "Width: "
-    # Line 27 Substitute thrid "," with tab follow "Area:: "
-    # Line 28 Substitute fourth "," with tab follow "Colour: " install new text into rectangle_f.txt from rectangle file
+    # Sed command explaination for lines 23-28: 
+        # Line 23 Remove first linels
+        # Line 24 Add 'Name: ' at start of line
+        # Line 25 Substitute first "," with tab follow "Height: "
+        # Line 26 Substitute second "," with tab follow "Width: "
+        # Line 27 Substitute thrid "," with tab follow "Area:: "
+        # Line 28 Substitute fourth "," with tab follow "Colour: " install new text into rectangle_f.txt from rectangle file
 
     sed -e '1d;'\
         -e 's/^/Name: /'\
