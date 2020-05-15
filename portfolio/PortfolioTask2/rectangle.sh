@@ -16,12 +16,12 @@ fi
 if [ -f rectangle.txt ] ; then
 
     # Sed command explaination for lines 23-28: 
-        # Line 23 Remove first linels
-        # Line 24 Add 'Name: ' at start of line
-        # Line 25 Substitute first "," with tab follow "Height: "
-        # Line 26 Substitute second "," with tab follow "Width: "
-        # Line 27 Substitute thrid "," with tab follow "Area:: "
-        # Line 28 Substitute fourth "," with tab follow "Colour: " install new text into rectangle_f.txt from rectangle file
+        # Line 26 Remove first linels
+        # Line 27 Add 'Name: ' at start of line
+        # Line 28 Substitute first "," with tab follow "Height: "
+        # Line 29 Substitute second "," with tab follow "Width: "
+        # Line 30 Substitute thrid "," with tab follow "Area:: "
+        # Line 31 Substitute fourth "," with tab follow "Colour: " install new text into rectangle_f.txt from rectangle file
 
     sed -e '1d;'\
         -e 's/^/Name: /'\
