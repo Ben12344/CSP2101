@@ -4,7 +4,7 @@
 
 # Find All_images dirtory 
 
-if [ -f All_images ] ; then
+if [ -d All_images ] ; then
 
     # Remove All_images dirtory 
     rm -r All_images
@@ -16,11 +16,12 @@ fi
 mkdir All_images
 
 # Route to current path
-rtdir=~/Documents/csp2101/assignment/All_images
+path=`pwd -P`
+rtdir=$path"/All_images"
 
 #Loop to download all images 
 
-while IFS= '\n' line
+while IFS="\n" read -r line
 do 
     num="${line:68:4}"
     thumbname="${line:64:8}"
@@ -39,3 +40,4 @@ do
         
         
 done < "thunmbalilinks.txt"
+echo "Saved to: $rtdir "

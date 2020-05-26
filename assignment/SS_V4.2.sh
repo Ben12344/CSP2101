@@ -14,8 +14,8 @@ while true; do
 
 done
 
-
-rtdir=~/Documents/csp2101/assignment/Random_images_$n
+path=`pwd -P`
+rtdir=$path"/Random_images_"$n
 
 linenum=0
 while IFS="\n" read -r line
@@ -25,9 +25,18 @@ do
 done < "thunmbalilinks.txt"
 
 
-## For loop or ammount of images
-input=5
 
+while true; do 
+    read -p "Enter an integer for the number of images to download: " input
+
+    if [[ "$input" =~ ^[0-9]+$ ]]; then
+        break
+    else 
+        echo "Invaild input"
+    fi
+done 
+
+## For loop or ammount of images
 for ((i=0; i<($input); i++)) do 
 
     #Get randomline number
@@ -54,4 +63,4 @@ for ((i=0; i<($input); i++)) do
 
 done
 
-echo "Saved into "$V 
+echo "Saved into "$rtdir 

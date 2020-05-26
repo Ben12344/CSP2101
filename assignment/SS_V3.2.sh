@@ -18,10 +18,30 @@ done
 
 
 # Path
-rtdir=~/Documents/csp2101/assignment/Range_images_$n
+path=`pwd -P`
+rtdir=$path"/Ranage_images_"$n
 
-min=2007
-max=2031
+echo "The range DSC0 is between 1533 - 2042"
+
+while true; do 
+    read -p "Enter min DSC0 number greater or eqaul to 1533: " min
+    if [[ "$min" =~ ^[0-9]+$ ]] && [ ${#min} == 4 ] && [ $min -ge 1533 ]; then
+        break
+    else 
+        echo "invaild min input"
+    fi 
+done 
+
+while true; do 
+    read -p "Enter max DSC0 number less or eqaul to 2042: " max
+    if [[ "$max" =~ ^[0-9]+$ ]] && [ ${#max} == 4 ] && [ $max -le 2042 ]; then
+        break
+    else 
+        echo "invaild max input"
+    fi 
+done 
+
+echo "Now downloading images in DSC0 range "$min"-"$max 
 
 # Down load in range
 
@@ -47,12 +67,9 @@ do
         echo "Downloading" $thumbname "with the file name" $thumbname".jpg, with a file size of" $kbfilesize "KB... Download"
         echo "Complete"
         
-        
-
-    
     fi
 
     
 done < "thunmbalilinks.txt"
 
-echo "Saved into "$V 
+echo "Saved to "$rtdir 
