@@ -24,8 +24,8 @@ range_thumbnail() {
     echo "The range DSC0 is between 1533 - 2042"
 
     while true; do 
-        read -p "Enter min DSC0 number greater or eqaul to 1533: " min
-        if [[ "$min" =~ ^[0-9]+$ ]] && [ ${#min} == 4 ] && [ $min -ge 1533 ]; then
+        read -p "Enter min DSC0 number greater or eqaul to 1533 and less than 2042: " min
+        if [[ "$min" =~ ^[0-9]+$ ]] && [ ${#min} == 4 ] && [ $min -ge 1533 ] && [ $min -lt 2042 ]; then
             break
         else 
             echo "invaild min input"
@@ -33,17 +33,19 @@ range_thumbnail() {
     done 
 
     while true; do 
-        read -p "Enter max DSC0 number less or eqaul to 2042: " max
-        if [[ "$max" =~ ^[0-9]+$ ]] && [ ${#max} == 4 ] && [ $max -le 2042 ]; then
+        read -p "Enter max DSC0 number less or eqaul to 2042 and greater then min ($min): " max
+        if [[ "$max" =~ ^[0-9]+$ ]] && [ ${#max} == 4 ] && [ $max -le 2042 ] && [ $max -gt $min ]; then
             break
         else 
             echo "invaild max input"
         fi 
     done 
 
-    echo "Now downloading images in DSC0 range "$min"-"$max 
+    echo "Processing to downloading images in DSC0 range "$min"-"$max 
 
     # Down load in range
+
+    d=0
 
     while IFS="\n" read -r line
     do 
@@ -66,12 +68,20 @@ range_thumbnail() {
             wget -q $line -P $rtdir
             echo "Downloading" $thumbname "with the file name" $thumbname".jpg, with a file size of" $kbfilesize "KB... Download"
             echo "Complete"
-            
+            let "d=d+1"
         fi
 
         
     done < "thunmbalilinks.txt"
 
-    echo "Saved to "$rtdir 
+    if [ $d == 0 ]; then
+
+        echo "There are no images in that DSC0 range "$min"-"$max 
+
+    else
+
+        echo "Saved to "$rtdir
+
+    fi 
 
 }
