@@ -55,7 +55,7 @@ range_thumbnail() {
         fi 
     done 
 
-    # Loop to set max range values
+    # Loop to set max range value
     while true; do 
 
         # prompt user for max input

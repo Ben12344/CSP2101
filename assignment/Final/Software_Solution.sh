@@ -3,7 +3,7 @@
 # ID 10393081
 
 
-# Bellow are the souces that stores functions in sperate file
+# Bellow are the souces that stores functions in sperate files
 
 source printlist.sh
 source specific_thumbnail.sh

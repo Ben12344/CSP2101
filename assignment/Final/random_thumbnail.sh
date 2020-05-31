@@ -65,7 +65,7 @@ random_thumbnail() {
         #Get randomline number
         randomline=$((( RANDOM % $linenum ) + 1 ))
 
-        # String for awk
+        # String for awk "NR==**" (** is number from line for example "NR==24" )  
         linexx=NR==$randomline
 
         # Link to download
@@ -86,6 +86,7 @@ random_thumbnail() {
 
         # Print details to user
         echo "Downloading" $thumbname "with the file name" $thumbname".jpg, with a file size of" $kbfilesize "KB... Download"
+
         echo "Complete"
 
     done

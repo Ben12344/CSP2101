@@ -43,6 +43,7 @@ all_thumbnail() {
 
         # Print details to user
         echo "Downloading" $thumbname "with the file name" $thumbname".jpg, with a file size of" $kbfilesize "KB... Download"
+
         echo "Complete"
             
     done < "thunmbalilinks.txt"
